@@ -105,4 +105,8 @@ ul {
 .footer a {
   font-size: 1.4em;
 }
+.bgimage01 {
+  background-image: url("http://www.altoproaudio.com/microsites/ts2/images/speakers/TS2-NPG.jpg");
+  background-size: auto;
+}
 /* Small devices (tablets, 768px and up) */
