@@ -106,6 +106,7 @@ ul {
   font-size: 1.4em;
 }
 .bgimage01 {
+  margin-top: 25px;
   background-image: url("http://www.altoproaudio.com/microsites/ts2/images/speakers/TS2-NPG.jpg");
   background-size: 100% auto;
   height: 750px;
