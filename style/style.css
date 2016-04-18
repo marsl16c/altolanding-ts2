@@ -56,13 +56,24 @@ h4 {
   font-size: 1.52em;
   border-bottom: 1px solid #c2c2c2;
   margin-bottom: 25px;
-  color: #707070;
+  color: #c1c1c1;
   padding: 20px 0;
   text-indent: 30px;
   text-align: center;
 }
 .first {
   margin-top: 100px;
+}
+.mainhead {
+  text-align: center;
+  color: #c1c1c1;
+  font-size: 2em;
+  font-weight: bold;
+}
+.line {
+  background-image: linear-gradient(to right, #000 10%, #fff 50%, #000 90%);
+  height: 1px;
+  margin: 50px 0;
 }
 .zwei {
   margin: 100px 0;
@@ -75,15 +86,15 @@ h4 {
 }
 .textblock {
   text-align: justify;
-  font-size: 1.2em;
-  color: #707070;
+  font-size: 1.3em;
+  color: #c1c1c1;
   letter-spacing: 0.1em;
-  line-height: 1.6em;
-  color: #e0e0e0;
+  line-height: 1.7em;
+  color: #c1c1c1;
 }
 ul {
   font-size: 1.2em;
-  color: #707070;
+  color: #c1c1c1;
   letter-spacing: 0.1em;
   line-height: 1.6em;
 }
